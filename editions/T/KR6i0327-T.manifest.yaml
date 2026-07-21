@@ -19,13 +19,13 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0327_000-T.yaml, hash: 'sha256:c8fa22c0e7def1d0dcc24fa4e738a5c2110481f064b311345fa916acc190df32'}
+  - {seq: 0, filename: KR6i0327_000-T.yaml, hash: 'sha256:1cdba89bd135a43ce2fee7723b7a51c9bded64989cbf28c9fa333eeb05f5f6cf'}
   - {seq: 1, filename: KR6i0327_001-T.yaml, hash: 'sha256:caaf7d4c98752e9ba7730f2b44de55223c19ad39f5069aaebcd433cbebf68bdd'}
   - {seq: 2, filename: KR6i0327_002-T.yaml, hash: 'sha256:0109ed28ffda106bc1fd8221a398832a1fad0bd3cbde7467aa072d46f4feb293'}
   - {seq: 3, filename: KR6i0327_003-T.yaml, hash: 'sha256:b78dd26d03719bec9d61f0cbcf21f288d73ca2a8b8b7187ca1121034ed0a1367'}
   - {seq: 4, filename: KR6i0327_004-T.yaml, hash: 'sha256:8cbce4ce472bee80873ea7ca9498c5eb5c96a34cbb81968c9abf739388ede485'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0327_000-T.markers.yaml, hash: 'sha256:0abb028002e01d997387766edb8f881be36d8489387f19dcc5e875d0efe1f052'}
+  - {seq: 0, role: markers, filename: assets/KR6i0327_000-T.markers.yaml, hash: 'sha256:412817577583e6493316483dc4163bc0d52d66d1e87d0d489f1ff830c6094f24'}
   - {seq: 1, role: markers, filename: assets/KR6i0327_001-T.markers.yaml, hash: 'sha256:ebd6b18a786bc85d102299296694671c1903a60710847d50762f3064a69a0213'}
   - {seq: 2, role: markers, filename: assets/KR6i0327_002-T.markers.yaml, hash: 'sha256:2be67f903b0ac4628531c38536f63aea1eb44aaf50c819c0ea6b8bc2f5d243d8'}
   - {seq: 3, role: markers, filename: assets/KR6i0327_003-T.markers.yaml, hash: 'sha256:69777820d8782faa6ee0a67a1b1c55a894ed59317b68bc95b69884d88aa30fbf'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0327_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 蔣之奇序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0327_T_000-mulu-2
     span:
-    - front
+    - body
     - 942
     - 942
   label: 蘇軾序
@@ -111,4 +111,4 @@ table_of_contents:
   label: 楞伽阿跋多羅寶經卷第四
   type: juan
   level: 1
-hash: sha256:a3af6dc6e321fbe5a0607ad078f0d221e4cfd6dfd30acd5789ca5a09648ea148
+hash: sha256:cee7b2eba56e87701eb30179d884872fe8a37edaad99caa4dcb7dd2dd334faac
